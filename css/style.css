@@ -4,7 +4,7 @@
 }
 
 body{
-    background-image: url('../imgs/background.jpg');
+    background-image: url('../imgs/gradient.png');
     background-attachment: fixed;
     min-height: 400px;
     margin-bottom: 100px;
